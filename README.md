@@ -1,16 +1,37 @@
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/demo-uber-nyc-pickups/main)
 
-# Streamlit Demo: Uber Pickups in New York City
-A [Streamlit](https://streamlit.io) demo [written in pure Python](https://github.com/streamlit/demo-uber-nyc-pickups/blob/main/streamlit_app.py) to interactively visualize Uber pickups in New York City.
+# Interactive Dashboard with Python – Streamlit
 
-![Final App Animation](https://github.com/streamlit/demo-uber-nyc-pickups/raw/main/uber_demo.png "Uber demo")
+Sales Dashboard built in Python and the Streamlit library to visualize Excel data.
 
-## Run this demo locally
+## Run the app
+```Powershell
+# vanilla terminal
+streamlit run app.py
+
+# quit
+ctrl-c
 ```
-pip install --upgrade streamlit
-streamlit run https://raw.githubusercontent.com/streamlit/demo-uber-nyc-pickups/main/streamlit_app.py
-```
 
-### Questions? Comments?
+## Demo
+Sales Dashboard: https://www.salesdashboard.pythonandvba.com/
 
-Please ask in the [Streamlit community](https://discuss.streamlit.io).
+## Screenshot
+
+![Dashboar Screenshot](https://content.screencast.com/users/jubbel3/folders/Snagit/media/64b4d64a-4e59-4bec-9f16-771eb1a99005/08.18.2021-19.50.jpg)
+
+
+## Author
+
+- Sven from Coding Is Fun
+- YouTube: https://youtube.com/c/CodingIsFun
+- Website: https://pythonandvba.com
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at contact@pythonandvba.com
+
+
+![Logo](https://www.pythonandvba.com/banner-img)
+
